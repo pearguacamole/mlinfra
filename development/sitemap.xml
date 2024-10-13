@@ -51,6 +51,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://mlinfra.io/latest/code/local/minikube/</loc>
+         <lastmod>2024-10-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://mlinfra.io/latest/user_guide/</loc>
          <lastmod>2024-10-13</lastmod>
          <changefreq>daily</changefreq>
